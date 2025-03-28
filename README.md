@@ -47,14 +47,6 @@ pip install -e .
    ```
 
 
-```bash
-git clone https://github.com/chiu0915/Pyevolve.git
-cd Pyevolve
-pip install -e .
-```
-
-> Use the `-e` flag for editable/development mode installation.
-
 ---
 
 ## 🧪 Minimal Working Example
@@ -121,15 +113,6 @@ pip install -e .
    pip install future
    python setup.py install
    ```
-
-
-```bash
-git clone https://github.com/chiu0915/Pyevolve.git
-cd Pyevolve
-pip install -e .
-```
-
-> `-e` 是「開發模式」，可以即時反映程式碼修改。
 
 ---
 

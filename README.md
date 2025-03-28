@@ -28,7 +28,7 @@ You can install this fork using either `git` or manual download.
 ### 📦 Option 1: Git clone
 
 ```bash
-git clone https://github.com/chiu0915/Pyevolve.git
+git clone https://github.com/chiu0915/Pyevolve-py3.12.git
 cd Pyevolve
 pip install -e .
 ```
@@ -96,7 +96,7 @@ Feel free to open issues on this fork if you encounter further compatibility iss
 ### 📦 方法一：使用 Git clone 安裝
 
 ```bash
-git clone https://github.com/chiu0915/Pyevolve.git
+git clone https://github.com/chiu0915/Pyevolve-py3.12.git
 cd Pyevolve
 pip install -e .
 ```

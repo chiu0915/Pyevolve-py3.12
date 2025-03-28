@@ -37,7 +37,7 @@ pip install -e .
 
 ### 📦 Option 2: Manual installation
 
-1. Download the module and examples at: https://github.com/BubaVV/Pyevolve (Click "Code" icon and select "Download ZIP".)  
+1. Download the module and examples at: https://github.com/chiu0915/Pyevolve-py3.12 (Click "Code" icon and select "Download ZIP".)  
 2. Extract the file in a folder.  
 3. Open the command line in Windows or the terminal in Mac in the folder (Google it if you don't know how).  
 4. Run the following command:  
@@ -105,7 +105,7 @@ pip install -e .
 
 ### 📦 方法二：手動安裝
 
-1. 前往原始專案頁面下載壓縮檔：https://github.com/BubaVV/Pyevolve （點選 `Code` → `Download ZIP`）  
+1. 前往原始專案頁面下載壓縮檔：https://github.com/chiu0915/Pyevolve-py3.12 （點選 `Code` → `Download ZIP`）  
 2. 將壓縮檔解壓縮到任意資料夾  
 3. 開啟命令列（command line, Windows）或終端機（terminal, Mac），並切換到該資料夾  
 4. 執行以下指令：  
